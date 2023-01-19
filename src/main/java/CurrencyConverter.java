@@ -36,6 +36,11 @@ public class CurrencyConverter {
         double dollar1 = yenToDollar(yenAmount1);
         System.out.println(dollar1);
 
+        int i = 50;
+
+        String s = String.valueOf(i);
+        System.out.println(s);
+
 
 
     }
